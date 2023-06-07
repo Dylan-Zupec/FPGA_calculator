@@ -1,9 +1,9 @@
 # FPGA-calculator
 Simple calculator for the Basys 3 FPGA development board written in VHDL. 
  
-This is my first larger-scale project having multiple components. Examples 
-include a prescaler, debounce, 7-segment controller, and ALU. The following
-arithmetic and bitwise operations can be performed:
+This is my first larger-scale project having multiple components. Includes 
+a prescaler, debounce, 7-segment controller, and ALU. The following arithmetic \
+and bitwise operations can be performed:
  - add
  - add with carry
  - subtract
