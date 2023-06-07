@@ -1,4 +1,4 @@
-# FPGA-calculator
+# FPGA_calculator
 Simple calculator for the Basys 3 FPGA development board written in VHDL. 
  
 This is my first larger-scale project having multiple components. Includes 
